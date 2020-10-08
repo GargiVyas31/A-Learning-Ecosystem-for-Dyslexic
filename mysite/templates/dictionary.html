@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+            {% block content %}
+            <h4> <center>Look up for this word</center> </h4>
+            <form method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="text" placeholder="Enter the text to find meaning" name="dictionary1">
+    <button type="submit" class="btn-floating btn-large waves-effect waves-light" style="background-color:#9575cd; float:right;margin-top:5%;"><i class="material-icons">search</i></button>
+  </form>
+  <p style="margin-top:3%;">Name:{{name}}</p>
+
+  <p>Mean:{{mean}}
+  </p>
+
+   {% endblock %}

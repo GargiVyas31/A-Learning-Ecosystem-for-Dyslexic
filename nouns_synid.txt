@@ -1,0 +1,110 @@
+02747177 ashcan,ash-bin,ashbin,trash can,trash bin,wastebin,trash barrel,ash bin,handbasket,planter,dustbin,basket,garbage can,bottle,
+
+02773838 bag,portmanteau,Gladstone,travelling bag,traveling bag,Gladstone bag,grip,suitcase,
+
+02801938 ashcan,voider,ash-bin,ashbin,trash can,trash bin,wastebin,handbasket,ash bin,trash barrel,laundry basket,planter,bowl,wicker basket,basket,garbage can,clothes basket,clothes hamper,dustbin,
+
+02808440 water tap,water faucet,tap,bathtub,hydrant,faucet,spigot,bathing tub,tub,bath,
+
+02818832 headless beds,cot,king size beds,four-poster,bunk bed,berth,platform bed,lounge,bunk,misc beds,L-shaped couch,sofa,camp bed,couch,hammock,sack,hospital bed,headboard beds,built in bed,
+
+02828884 cocktail table,tete-a-tete,vis-a-vis,rex chair,side chair,garden chair,table,lawn chair,laboratory bench,work table,desk,park bench,sofa bed,overstuffed chair,love seat,convertible,loveseat,straight chair,flat bench,couch,worktable,side table,kitchen table,window seat,lounge chair,rectangular table,workshop table,easy chair,bar,armchair,sofa,bench,console table,pew,drafting table,settee,lounge,church bench,lab bench,chair,settle,drawing table,coffee table,console,
+
+02834778 wheel,bike,bicycle,cycle,
+
+02843684 birdhouse,
+
+02858304 speedboat,ocean liner,narrow boat,rowing boat,sailing vessel,river boat,dugout,clipper ship,dugout canoe,barge,training ship,pigboat,hoy,passenger ship,cabin cruiser,flatboat,canoe,sailboat,kayak,ship,ferryboat,guard boat,carrier,narrowboat,sailing boat,flattop,jet-propelled plane,canal boat,nautilus,sister ship,weather ship,cruise ship,catamaran,tanker,war vessel,tank ship,cruise liner,yacht,punt,patrol ship,pirate,ship's boat,guard ship,guided missile destroyer,houseboat,aircraft carrier,tender,containership,vessel,cruiser,man-of-war,ferry,oiler,oil tanker,attack aircraft carrier,surface ship,watercraft,steamship,small boat,pontoon,pilot boat,sailing ship,submarine,destroyer escort,ship of the line,lighter,racing yacht,supply ship,outboard motorboat,cargo vessel,school ship,battle cruiser,cargo ship,dory,jet plane,destroyer,pleasure boat,capital ship,U-boat,police boat,liner,container vessel,pirogue,fishing boat,pinnace,dinghy,fishing smack,steamer,clipper,cutter,container ship,nuclear-powered submarine,outboard,patrol boat,pleasure craft,fishing vessel,sub,rowboat,warship,sea boat,nuclear submarine,boat,jet,pirate ship,combat ship,
+
+02871439 vertical file,dresser,desk cabinet,bookshelf,garage cabinet,
+
+02876657 soda can,trash bin,ampul,jar,dustbin,ashcan,trash can,trash barrel,planter,ash bin,ampoule,jug,soda bottle,phial,canteen,vase,bottle,ampule,beer bottle,pop bottle,ash-bin,ashbin,wastebin,wine bottle,vial,garbage can,
+
+02880940 soup bowl,vase,flowerpot,lamp,planter,pot,handbasket,bowl,basket,
+
+02924116 double-decker,passenger vehi,motorbus,omnibus,school bus,bus,autobus,trolleybus,motorcoach,jitney,coach,trackless trolley,charabanc,trolley coach,
+
+02933112 medicine chest,file,china closet,table,dresser,file cabinet,desk,box cabinet,medicine cabinet,two-door cabinet,mailbox,filing cabinet,bed cabinet,desk cabinet,bookshelf,side table,letter box,cabinet,tall cabinet,china cabinet,garage cabinet,
+
+02942699 photographic camera,cine-camera,movie camera,flash camera,camera,webcam,box camera,box Kodak,motion-picture camera,
+
+02946921 soda can,beer can,can,soda bottle,tin can,pop bottle,tin,bottle,
+
+02954340 golf cap,tam,tammy,peaked cap,yachting cap,tam-o'-shanter,baseball cap,cloth cap,flat cap,kepi,service cap,cap,jockey cap,
+
+02992529 cellular telephone,phone,handset,mobile phone,cellular phone,desk phone,CRT screen,phone,French telephone,computer keyboard,keypad,telephone,cell,telephone set,screen,cellphone,
+
+03001627 tete-a-tete,vis-a-vis,rex chair,ladder-back,side chair,NO. 14 chair,swivel chair,ball chair,garden chair,table,wing chair,cantilever chair,chaise longue,lawn chair,speaker unit,ladder-back chair,L-shaped couch,bean chair,speaker system,park bench,sofa bed,overstuffed chair,love seat,captain's chair,tulip chair,convertible,divan bed,camp chair,chaise,straight chair,deck chair,couch,loveseat,zigzag chair,side table,loudspeaker system,rocker,recliner,X chair,daybed,wheelchair,lounge chair,lounger,Eames chair,Morris chair,rocking chair,easy chair,reclining chair,armchair,folding chair,sofa,Windsor chair,bench,club chair,barcelona chair,throne,speaker,chesterfield,beach chair,settee,butterfly chair,wassily chair,lounge,chair,double couch,
+
+03046257 wall clock,alarm clock,supporting tower,grandfather clock,longcase clock,clock tower,pendulum clock,alarm,clock,bell tower,
+
+03085013 cellular telephone,mobile phone,cellular phone,keypad,cell,computer keyboard,cellphone,telephone
+
+03207941 dishwasher,washer,dish washer,washing machine,automatic washer,dishwashing machine,
+
+03211117 loudspeaker,mobile phone,laptop computer,CRT screen,background,phone,speaker unit,cell,speaker system,screen,display board,computer screen,monitor,telephone set,loudspeaker system,telephone,display,cellular phone,monitoring device,display panel,printer,LCD,liquid crystal display,flat panel display,speaker,screen background,computer display,cellular telephone,laptop,computer monitor,board,printing machine,desktop,cellphone,FPD,video display,
+
+03261776 phone,earphone,headphone,earpiece,
+
+03325088 water tap,water faucet,tap,bathtub,bath,hydrant,faucet,spigot,bathing tub,tub,mixing faucet,
+
+03337140 desk,vertical file,file,dresser,filing cabinet,file cabinet,desk cabinet,bookshelf,
+
+03467517 guitar,acoustic guitar,
+
+03513137 football helmet,tin hat,space helmet,helmet,hard hat,safety hat,
+
+03593526 vase,flowerpot,pot,planter,wine bottle,jug,bowl,jar,bottle,
+
+03624134 dagger,bayonet,sticker,knife,
+
+03636649 bowl,lamp,table lamp,floor lamp,
+
+03642806 laptop,desktop,laptop computer,CRT screen,background,computer screen,computer display,screen background,screen,
+
+03691459 loudspeaker,CRT screen,woofer,LCD,chair,fire tower,liquid crystal display,speaker unit,tweeter,speaker,subwoofer,club chair,speaker system,loudspeaker system,screen,
+
+03710193 mailbox,dresser,letter box,
+
+03759954 mike,microphone,
+
+03761084 desk,microwave oven,microwave,
+
+03790512 motorcycle,bike,moped,dirt bike,scrambler,trail bike,
+
+03797390 coffee mug,mug,stein,beer mug,
+
+03928116 grand piano,pianoforte,grand,forte-piano,upright,piano,upright piano,concert grand,concert piano,
+
+03938244 pillow,
+
+03948459 sniper rifle,six-gun,shooting iron,six-shooter,carbine,revolver,handgun,pistol,precision rifle,rifle,side arm,
+
+03991062 vase,ashcan,flowerpot,ash-bin,ashbin,trash can,trash bin,wastebin,planter,pot,ash bin,trash barrel,jug,handbasket,bowl,jar,basket,garbage can,dustbin,
+
+04004475 printer,laser printer,computer monitor,printing machine,
+
+04074963 remote control,remote,
+
+04090263 sniper rifle,six-gun,shooting iron,six-shooter,carbine,revolver,handgun,pistol,precision rifle,rifle,side arm,
+
+04099429 missile,surface-to-air missile,projectile,V-1,flying bomb,doodlebug,SAM,air-to-air missile,ballistic missile,robot bomb,buzz bomb,rocket,
+
+04225987 skateboard,
+
+04256520 cocktail table,tete-a-tete,vis-a-vis,side chair,swivel chair,day bed,table,wing chair,chaise longue,desk,leather couch,sofa bed,overstuffed chair,love seat,convertible,divan bed,chaise,loveseat,couch,straight chair,recliner,daybed,lounge chair,Eames chair,lounger,easy chair,reclining chair,armchair,sofa,L-shaped couch,bench,club chair,chesterfield,counter,settee,studio couch,lounge,chair,double couch,coffee table,
+
+04330267 stove,
+
+04379243 cocktail table,reception desk,stand,altar,vanity,communion table,ping-pong table,side chair,file,swivel chair,checkout,garden chair,table,snooker table,dresser,lawn chair,laboratory bench,work table,writing table,file cabinet,desk,park bench,secretary,sofa bed,toilet table,cabinet table,Lord's table,card table,microwave,pedestal table,convertible,tip-top table,reading desk,filing cabinet,straight chair,couch,conference table,tea table,worktable,desk cabinet,side table,kitchen table,round table,breakfast table,tilt-top table,billiard table,pingpong table,drop-leaf table,dressing table,rectangular table,secretaire,pool table,short table,silo,workshop table,operating table,bar,booth,sofa,console table,escritoire,bench,tip table,drafting table,counter,wine bar,lectern,council table,checkout counter,lab bench,lounge,microwave oven,table-tennis table,chair,soda fountain,drawing table,coffee table,console,council board,writing desk,
+
+04401088 cellular telephone,handset,mobile phone,cellular phone,desk phone,CRT screen,phone,French telephone,computer keyboard,keypad,telephone,cell,telephone set,screen,cellphone,
+
+04460130 loudspeaker,supporting tower,shot tower,clock tower,table,speaker unit,lighthouse,clock,speaker system,bell tower,beacon light,high-rise,fire tower,turret,tower block,loudspeaker system,silo,beacon,power pylon,spire,speaker,steeple,watchtower,church tower,tower,pendulum clock,pharos,pylon,
+
+04468005 commuter,commuter train,train,passenger train,subway train,railroad train,car train,freight train,rattler,
+
+04530566 speedboat,ocean liner,narrow boat,rowing boat,bark,sailing vessel,river boat,dugout,clipper ship,dugout canoe,barge,training ship,pigboat,hoy,passenger ship,cabin cruiser,flatboat,canoe,sailboat,kayak,ship,ferryboat,guard boat,carrier,narrowboat,sailing boat,flattop,jet-propelled plane,canal boat,nautilus,sister ship,barque,weather ship,cruise ship,catamaran,tanker,war vessel,tank ship,cruise liner,yacht,punt,patrol ship,pirate,ship's boat,guard ship,guided missile destroyer,houseboat,aircraft carrier,tender,containership,vessel,cruiser,man-of-war,ferry,oiler,oil tanker,attack aircraft carrier,surface ship,watercraft,steamship,small boat,pontoon,pilot boat,sailing ship,submarine,destroyer escort,ship of the line,lighter,racing yacht,supply ship,outboard motorboat,cargo vessel,school ship,battle cruiser,cargo ship,dory,jet plane,destroyer,pleasure boat,capital ship,U-boat,police boat,liner,container vessel,hospital ship,pirogue,fishing boat,pinnace,dinghy,fishing smack,steamer,clipper,attack submarine,cutter,container ship,nuclear-powered submarine,outboard,patrol boat,pleasure craft,fishing vessel,sub,rowboat,warship,sea boat,nuclear submarine,boat,jet,pirate ship,combat ship,
+
+04554684 dishwasher,washer,dish washer,washing machine,automatic washer,dishwashing machine,
+

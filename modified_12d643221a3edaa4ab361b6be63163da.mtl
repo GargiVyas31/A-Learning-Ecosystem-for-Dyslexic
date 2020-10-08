@@ -1,0 +1,44 @@
+# Blender MTL File: 'blank.blend'
+# Material Count: 4
+
+newmtl m0
+Ns 1.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.882353 0.882353 0.784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 1
+
+newmtl m0.001
+Ns 1.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 1
+map_Kd D:\\Text_to_scene_generation-master\\Text_to_scene_generation-master\\models-OBJ\\models\\models-textures\\textures\\6bfece7c93af4e17.jpg
+
+newmtl m1
+Ns 1.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.796078 0.854902 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.309804
+illum 1
+
+newmtl m1.001
+Ns 1.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 1
+map_Kd D:\\Text_to_scene_generation-master\\Text_to_scene_generation-master\\models-OBJ\\models\\models-textures\\textures\\71f5f99d34ba1298.jpg
